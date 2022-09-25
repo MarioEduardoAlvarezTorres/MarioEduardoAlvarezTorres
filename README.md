@@ -1,6 +1,7 @@
 ## Hi there! <img height="50" src="https://i.pinimg.com/originals/3d/74/68/3d7468d1bb523674726ba6934a396566.gif">
 - 🌱 I’m currently learning Front-end and Back-end Development.
 - 📫 How to reach me: eduardoat44@gmail.com
+- GitLab: https://gitlab.com/MarioEduardoAlvarezTorres
 <img height="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 **Programming languages:**  
